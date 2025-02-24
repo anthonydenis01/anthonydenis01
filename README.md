@@ -1,5 +1,5 @@
 # 👋 Hey, I'm Anthony Denis!
-## Data & Business Analyst | Power BI | R | AI Enthusiast
+## Data & Business Analyst | Passionate about AI and life changing product !
 
 Welcome to my GitHub portfolio! I work on projects related to **data visualization, analytics, and automation**. Currently, I'm organizing my projects and building a strong portfolio.
 
