@@ -1,35 +1,26 @@
-# 👋 Hey, I'm Anthony Denis  
+# Anthony Denis
 
-### 🚢 Data-Driven Logistics & Business Analyst  
-**Passionate about analytics, automation, and global supply-chain innovation.**
+**I build AI agents that automate import logistics operations.**
 
-Welcome to my GitHub portfolio!  
-I design and analyze **data-driven solutions for logistics and operations**, combining insights from **Power BI, Python, SQL, and automation**.  
-My work bridges **business analytics and AI**, shaped by hands-on experience at **MSC — the world’s #1 cargo mover**.
+I work inside the Import VIP desk of one of the world's largest container carriers. That's where you learn where freight operations bleed time: invoice matching, container exception hunting, carrier chasing. I build the agents that do that work — grounded in how ops actually run, not how software vendors imagine they run.
 
----
+## 🔴 Live demos
 
-### 📊 Featured Projects  
-- 🧠 **AI Traffic Prediction** – Machine learning model forecasting transport flow and anomalies.  
-- 📦 **Supply Chain Optimization** – Automated warehouse and inventory analytics.  
-- 💰 **FinTech Investment Analysis** – SQL + Python workflows for data-driven investment insights.  
-- ⚡ **EV Market Dashboard** – Power BI storytelling on sustainability and adoption trends.  
+| Project | What it does | Try it |
+|---|---|---|
+| **Import Ops Agent** ⭐ | Full daily verification — carrier sites, terminal holds, invoice audit, prioritized exceptions | [Interactive demo](https://anthonydenis01.github.io/import-ops-agent-demo/) |
+| **Import Desk Automation** | Invoice↔booking matching (97%), overcharge detection, AR audit | [Dashboard](https://anthonydenis01.github.io/import-desk-automation-agent/demo.html) · [Code](https://github.com/anthonydenis01/import-desk-automation-agent) |
+| **Container Visibility** | Vessel delay detection, 48h detention-risk alerts | [Dashboard](https://anthonydenis01.github.io/container-visibility-agent/demo.html) · [Code](https://github.com/anthonydenis01/container-visibility-agent) |
+| **Carrier Scorecard** | Carrier reliability rankings by lane, switching-savings estimates | [Dashboard](https://anthonydenis01.github.io/carrier-scorecard-agent/demo.html) · [Code](https://github.com/anthonydenis01/carrier-scorecard-agent) |
 
----
+All demos run on synthetic data. Deterministic pipelines with a Claude reasoning layer on top — the math never depends on the LLM.
 
-### 🧰 Tech Stack  
-`Python` · `SQL` · `Power BI` · `Excel (VBA + Power Query)` · `n8n Automation` · `Looker`  
+## How I build
 
----
+**Python · Claude API (tool use) · Pandas · GitHub Pages** — agents designed for adoption: they output what ops teams already use, flag rather than auto-act, and measure hours saved, not model metrics.
 
-### 🌱 About Me  
-🏙 **Based in Miami, FL** ⚽ **Former NCAA Athlete** 🇫🇷 **Bilingual (EN/FR)**  
+## Background
 
-Curious, analytical, and driven by impact — I’m constantly exploring how **AI and automation can simplify complex operations**.  
-Always open to collaboration on data, logistics, and sustainability projects.
+🚢 Import VIP desk @ one of the world's largest container carriers · 📍 Miami · 🇫🇷 French
 
-📬 [**LinkedIn**](https://www.linkedin.com/in/anthonydenis1/) • [**Email**](mailto:anthonydenis3301@gmail.com)
-
----
-
-🚀 Always learning and building new things!
+📫 [LinkedIn](https://www.linkedin.com/in/anthonydenis1/)
